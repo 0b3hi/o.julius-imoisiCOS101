@@ -24,7 +24,7 @@ fn main() {
         else if age >= 30 && age < 40{
             println!("The annual incentive of the employee is 1480000 naira");
     }
-        else{
+        lse{
             println!("The monthly incentive of the employee is 1300000 naira");
     }
      
